@@ -1,0 +1,18 @@
+print("hello")
+a="Hello World"
+print(a)
+a=int(2)
+b=int(3)
+print(a+b)
+print("I like hack club")
+#I like hack club this should be a comment
+inputtest=input("enter your name? : ")
+print("Hello", inputtest, ", welcome to my code from hack club terra")
+#creating a conversation now
+i=input("hello do you like hack club?(y/n)")
+#first if statement
+if i == "y":
+    print(inputtest,"Its great to hear that you like hack club")
+elif i =="n":
+    print(inputtest,"Sorrry to hear that you dont like hack club maybe give it another try? :)")
+#cod etested till above here code all works :) :o
